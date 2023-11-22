@@ -23,5 +23,5 @@ ARIMA (AutoRegressive Integrated Moving Average) is a time series forecasting mo
 
 
 
-Contributing
+###Contributing:
 If you find any issues or have improvements to suggest, please feel free to open an issue or create a pull request. Contributions are welcome!
